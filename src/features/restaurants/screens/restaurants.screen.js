@@ -7,7 +7,7 @@ import { RestaurantInfo } from "../components/restaurant-info.component";
 export const RestaurantsScreen = () => (
   <SafeAreaView style={styles.container}>
     <View style={styles.search}>
-      <Searchbar placeholder="Search for Places" />
+      <Searchbar placeholder="Search" />
     </View>
     <View style={styles.list}>
       <RestaurantInfo />
