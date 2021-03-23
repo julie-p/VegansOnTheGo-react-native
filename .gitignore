@@ -1,5 +1,5 @@
+yarn.lock
 node_modules/**/*
-C:\Users\Julie\Documents\Code\MealsToGo\yarn.lock
 .expo/*
 npm-debug.*
 *.jks
@@ -12,3 +12,4 @@ web-build/
 
 # macOS
 .DS_Store
+node_modules
